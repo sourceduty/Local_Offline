@@ -1,4 +1,4 @@
-![Offline Evil](https://github.com/user-attachments/assets/8f8a3f1d-218a-45bf-a827-fb50298ae9cd)
+![Offline Evil](https://github.com/user-attachments/assets/e5e88c94-98d4-48bd-ba93-8d5f782b556e)
 
 Offline work refers to performing tasks or using software without needing an active internet connection. This includes activities such as writing documents, editing photos or videos, coding in local development environments, or using apps that store data locally on your device. To work offline effectively, you should ensure that all necessary tools, files, and resources are downloaded and accessible on your computer beforehand. This may involve setting up offline modes in apps like Google Docs, syncing cloud storage files for local access, or using standalone software that doesn’t rely on web access. Offline work is particularly useful in environments with limited or unreliable internet and helps maintain productivity without disruption.
 
