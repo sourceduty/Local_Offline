@@ -22,6 +22,12 @@ Sourceduty recommends and uses the google/gemma-2-2b-GGUF model, a compact yet p
 
 Running the Gemma 2B GGUF model on an Intel Core i5-10500H CPU reveals a dramatic difference in resource utilization when comparing default CPU behavior to explicitly requesting 90% CPU usage. By default, the CPU peaks at only around 12%, significantly underutilizing available processing power despite the model being fully loaded and active. This conservative usage results in inefficient performance, likely due to power-saving defaults or limited thread scheduling. However, once the CPU is allowed to operate at 90%, the usage rapidly climbs to near-full capacity, holding steady throughout the inference duration before tapering off as the workload completes. This adjustment not only unlocks the CPU's true potential but also greatly improves model throughput, ensuring faster token generation and overall responsiveness. The contrast between a throttled 12% ceiling and a fully-engaged 90% demonstrates how critical system-level configuration is for real-time model performance, especially on devices not automatically tuned for high-load AI tasks.
 
+<br>
+
+![Offline GPT Chat](https://github.com/user-attachments/assets/e5ac5ad6-65ee-473c-a17c-9974213ab3b3)
+
+<br>
+
 Using GPT4ALL represents a significant step in democratizing access to advanced language models by offering a locally deployable, open-source alternative to cloud-based AI services. Ideal for developers and researchers who prioritize privacy, customization, and offline capabilities, GPT4ALL supports a wide range of models—including those fine-tuned for chat, coding, or summarization—on consumer-grade hardware. Its integration with tools like llama.cpp and compatibility with quantized formats allows for efficient performance even without high-end GPUs. This aligns closely with Sourceduty’s mission to empower AI-enhanced workflows on desktop-class devices, enabling creative content generation, community management, and technical assistance in a self-contained environment.
 
 #
