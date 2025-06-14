@@ -16,6 +16,16 @@ Offline work refers to performing tasks or using software without needing an act
 
 #
 
+![Gemma 3](https://github.com/user-attachments/assets/5e21bd4f-dd77-4169-bbba-d80be6e53bd8)
+
+Sourceduty recommends and utilizes the google/gemma-3-2b-GGUF model, the latest evolution in Google’s open-weight large language models. Part of the Gemma 3 family—refined through advancements in the Gemini research line—this 2.61 billion parameter model is distributed in GGUF format with float32 precision and optimized for deployment via llama.cpp, Ollama, and LM Studio. As a decoder-only, text-to-text transformer, Gemma 3 improves upon its predecessor with enhanced reasoning, factual grounding, and language comprehension across diverse natural language tasks such as summarization, ideation, and technical Q&A. These improvements directly support Sourceduty’s core functions in creative content generation, procedural documentation, and community automation. The model’s efficiency and compact design ensure high performance even on consumer-grade hardware, aligning with Sourceduty’s commitment to accessible, responsive AI workflows that scale with user demand while preserving quality and ethical integrity.
+
+Running the Gemma 3 2B GGUF model on an Intel Core i5-10500H CPU highlights a stark contrast in resource utilization between default system behavior and a manually optimized configuration allowing 90% CPU usage. By default, the CPU hovers at a mere 10–12% utilization, failing to leverage available compute capacity even with the model fully loaded and actively generating output. This bottleneck is typically rooted in conservative power management settings or OS-level thread scheduling limits. However, when the system is explicitly tuned to permit 90% CPU utilization—either through performance profiles or runtime flags—the processor ramps up to sustained high usage, significantly accelerating inference throughput. The result is a noticeable boost in token generation speed, response time, and overall model efficiency. This behavior confirms that real-time performance of Gemma 3 on consumer-grade CPUs depends heavily on system-level configuration, underscoring the importance of fine-tuning resource allocation for demanding AI tasks on non-GPU hardware.
+
+#
+
 [AI-Terminal](https://chatgpt.com/g/g-682ae345cb0c8191944ce840e3cfa63e-ai-terminal)
 <br>
 [Programming](https://github.com/sourceduty/Programming)
+<br>
+[ChatBots](https://github.com/sourceduty/Chatbots)
