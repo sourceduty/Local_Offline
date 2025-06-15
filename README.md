@@ -24,6 +24,22 @@ Running the Gemma 2B GGUF model on an Intel Core i5-10500H CPU reveals a dramati
 
 <br>
 
+| Metric                          | Dell G15 Gaming Laptop (CPU Only)                | Dell Precision T5810 Workstation (CPU Only)       |
+|---------------------------------|--------------------------------------------------|---------------------------------------------------|
+| Inference Mode                  | CPU-only (Intel i5-10500H - 6 cores, 12 threads) | CPU-only (Intel Xeon E5-2699C v4 - 22 cores, 44 threads) |
+| RAM                             | 32GB DDR4                                         | 32GB DDR4 ECC Registered                          |
+| Tokens per Second (Q4)         | 4–6 tokens/sec                                   | 8–12 tokens/sec                                   |
+| Tokens per Second (Q5)         | 3–5 tokens/sec                                   | 6–10 tokens/sec                                   |
+| Estimated Time for 5000 Tokens (Q4) | ~13.9 – 20.8 minutes                         | ~6.9 – 10.4 minutes                               |
+| Estimated Time for 5000 Tokens (Q5) | ~16.7 – 27.8 minutes                         | ~8.3 – 13.8 minutes                               |
+| Model Load Time (GGUF)         | ~25–35 seconds                                   | ~25–40 seconds                                    |
+| Sustained Performance           | Medium (mobile thermals, may throttle)           | High (server-grade, stable multithreaded loads)   |
+| Max Token Context Window        | ~2K–3K tokens (limited by RAM)                   | 4K–8K tokens (ample RAM)                          |
+| Power Efficiency                | High (mobile chip, efficient per watt)           | Low (high power draw, higher sustained output)    |
+| Portability                    | High (lightweight laptop)                        | Low (stationary tower workstation)                |
+
+<br>
+
 ![Offline GPT Chat](https://github.com/user-attachments/assets/e5ac5ad6-65ee-473c-a17c-9974213ab3b3)
 
 <br>
