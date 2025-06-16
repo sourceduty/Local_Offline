@@ -24,6 +24,8 @@ Running the Gemma 2B GGUF model on an Intel Core i5-10500H CPU reveals a dramati
 
 Due to financial constraints, Alex currently relies solely on CPU processing for running models like Gemma 2B, despite his strong interest in leveraging GPU acceleration for faster inference. Although some budget-friendly GPUs, such as the GTX 1650, are advertised as CUDA-capable and compatible with frameworks like GPT4ALL, Alex's testing revealed they do not actually support the required CUDA extensions for proper functionality. This has left him limited to using his Intel Core i5-10500H CPU, which, while serviceable—especially when tuned to operate at higher utilization—still falls short of the performance gains a working GPU setup would offer. If affordability weren’t an issue, Alex would promptly transition to a supported GPU environment to significantly boost model throughput and reduce latency in real-time applications.
 
+Alex: _I'm ok right now with what I have. I could use a bit more speed in the future using a better CPU or GPU._
+
 <br>
 
 | Metric                          | Dell G15 Gaming Laptop (CPU Only)                | Dell Precision T5810 Workstation (CPU Only)       |
