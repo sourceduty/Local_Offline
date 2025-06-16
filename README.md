@@ -48,6 +48,10 @@ Due to financial constraints, Alex currently relies solely on CPU processing for
 
 Using GPT4ALL represents a significant step in democratizing access to advanced language models by offering a locally deployable, open-source alternative to cloud-based AI services. Ideal for developers and researchers who prioritize privacy, customization, and offline capabilities, GPT4ALL supports a wide range of models—including those fine-tuned for chat, coding, or summarization—on consumer-grade hardware. Its integration with tools like llama.cpp and compatibility with quantized formats allows for efficient performance even without high-end GPUs. This aligns closely with Sourceduty’s mission to empower AI-enhanced workflows on desktop-class devices, enabling creative content generation, community management, and technical assistance in a self-contained environment.
 
+<br>
+
+![GTX1650](https://github.com/user-attachments/assets/927c4a29-ae39-442b-856f-766161ae95d2)
+
 #
 
 [AI-Terminal](https://chatgpt.com/g/g-682ae345cb0c8191944ce840e3cfa63e-ai-terminal)
