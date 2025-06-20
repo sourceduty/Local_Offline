@@ -58,7 +58,7 @@ Using GPT4ALL represents a significant step in democratizing access to advanced 
 
 Sourceduty operates two instances of offline GPTs to enhance performance and flexibility across development environments. The first instance runs directly on a DELL G15 gaming laptop, providing a portable and responsive local interface for immediate testing and iteration. The second instance is hosted on a more powerful PC workstation and accessed remotely via a secure SSH connection from the laptop. This dual-instance configuration allows Sourceduty to leverage the G15 for lightweight tasks and prototyping, while offloading heavier inference or multi-model orchestration to the workstation. The SSH link ensures secure and efficient command-line control, enabling seamless coordination between devices without relying on cloud infrastructure.
 
-``` DELL G15 ↔ WORKSTATION ```
+``` DELL G15 ↔ WORKSTATION NODE ```
 
 #
 
