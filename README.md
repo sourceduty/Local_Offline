@@ -42,6 +42,8 @@ Due to financial constraints, Alex currently relies solely on CPU processing for
 
 Alex: _I'm ok right now with what I have. I could use a bit more speed in the future using a better CPU or GPU._
 
+``` DELL G15 ↔ WORKSTATION NODE ```
+
 <br>
 
 ![Offline GPT Chat](https://github.com/user-attachments/assets/e5ac5ad6-65ee-473c-a17c-9974213ab3b3)
@@ -57,8 +59,6 @@ Using GPT4ALL represents a significant step in democratizing access to advanced 
 <br>
 
 Sourceduty operates two instances of offline GPTs to enhance performance and flexibility across development environments. The first instance runs directly on a DELL G15 gaming laptop, providing a portable and responsive local interface for immediate testing and iteration. The second instance is hosted on a more powerful PC workstation and accessed remotely via a secure SSH connection from the laptop. This dual-instance configuration allows Sourceduty to leverage the G15 for lightweight tasks and prototyping, while offloading heavier inference or multi-model orchestration to the workstation. The SSH link ensures secure and efficient command-line control, enabling seamless coordination between devices without relying on cloud infrastructure.
-
-``` DELL G15 ↔ WORKSTATION NODE ```
 
 #
 
