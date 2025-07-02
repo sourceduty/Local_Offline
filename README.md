@@ -51,6 +51,8 @@ Upgrading the Dell Precision T5810 from 32 GB to 128 GB of ECC DDR4 RAM sign
 | Portability                         | High (lightweight laptop)                                     | Low (stationary tower workstation)                       | Low (stationary tower workstation)                         |
 | Estimated Cost (CAD)                | ~$650.00 CAD                                                 | ~$863.90 CAD                                             | ~$4,951.71 – $14,026.42 CAD                                |
 
+![T5810](https://github.com/user-attachments/assets/54f55fc2-3ef9-41ef-b73d-19e32f5bf90a)
+
 <br>
 
 ![Offline GPT Chat](https://github.com/user-attachments/assets/e5ac5ad6-65ee-473c-a17c-9974213ab3b3)
