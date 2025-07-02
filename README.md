@@ -32,7 +32,7 @@ Sourceduty purchased a Dell Precision T5810 Workstation for $563.90 CAD, which o
 
 ``` Dell G15 Gaming Laptop ↔ Dell Precision T5810 Workstation (CPU) ```
 
-Alex: _I want more power but GGUF is limited to CPUs._
+Upgrading the Dell Precision T5810 from 32 GB to 128 GB of ECC DDR4 RAM significantly enhances its capability to run local AI models like google/gemma-2-2b-GGUF. This CAD ~$160–$220 investment boosts tokens-per-second performance by up to 50%, reduces model load times, eliminates swap usage, and enables larger context windows and parallel model execution. For users focused on CPU-only inference, this upgrade brings the T5810's performance closer to that of modern high-end EPYC servers—at a fraction of the cost.
 
 <br>
 
