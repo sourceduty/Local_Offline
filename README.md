@@ -16,7 +16,7 @@ Offline work refers to performing tasks or using software without needing an act
 
 #
 
-![Gemma 2](https://github.com/user-attachments/assets/09242b25-0ef4-4085-8f88-32bc4acc3989)
+![Gemma](https://github.com/user-attachments/assets/8a5dab0f-1f35-4dde-8dbb-a03a9b56b268)
 
 Sourceduty recommends and uses the google/gemma-2-2b-GGUF model, a compact yet powerful open-weight large language model from Google, which is part of the Gemma family derived from the same foundational research as the Gemini models. This version, available in GGUF format with 2.61 billion parameters and float32 weights, is optimized for efficient deployment through llama.cpp and compatible tools such as Ollama and LM Studio. Designed as a decoder-only, text-to-text model, Gemma 2 excels in natural language tasks including question answering, summarization, and reasoning, making it ideal for Sourceduty's use cases in creative content generation, technical documentation, and automated community interaction. Its lightweight architecture ensures smooth performance even on resource-constrained devices like laptops and desktops, supporting Sourceduty’s mission to democratize access to AI while maintaining high standards for responsiveness and accuracy in digital workflows.
 
