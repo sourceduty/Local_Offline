@@ -73,6 +73,6 @@ Sourceduty operates two instances of offline GPTs to enhance performance and fle
 <br>
 [Programming](https://github.com/sourceduty/Programming)
 <br>
-[ChatBots](https://github.com/sourceduty/Chatbots)
+[Chatbots](https://github.com/sourceduty/Chatbots)
 <br>
 [Computer Upgrade](https://chatgpt.com/g/g-bSr9Rxt51-computer-upgrade)
