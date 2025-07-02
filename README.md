@@ -28,6 +28,10 @@ Sourceduty purchased a Dell Precision T5810 Workstation for $563.90 CAD, which o
 
 <br>
 
+Alex: _I want more power but I'm limited to CPUs._
+
+<br>
+
 | Metric                              | Dell G15 Gaming Laptop (CPU Only)                             | Dell Precision T5810 Workstation (CPU Only)              | Dell Precision 7875 Tower (CPU Only)                        |
 |-------------------------------------|---------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------|
 | Inference Mode                      | CPU-only (Intel i5-10500H - 6 cores, 12 threads)              | CPU-only (Intel Xeon E5-2699C v4 - 22 cores, 44 threads) | CPU-only (AMD EPYC 96 cores, 192 threads)                  |
