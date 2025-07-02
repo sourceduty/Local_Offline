@@ -49,7 +49,7 @@ Upgrading the Dell Precision T5810 from 32 GB to 128 GB of ECC DDR4 RAM sign
 | Max Token Context Window            | ~2K–3K tokens (limited by RAM)                                | 4K–8K tokens (ample RAM)                                 | 8K–12K tokens (ample RAM)                                  |
 | Power Efficiency                    | High (mobile chip, efficient per watt)                        | Low (high power draw, higher sustained output)           | Medium (high core count with significant power usage)      |
 | Portability                         | High (lightweight laptop)                                     | Low (stationary tower workstation)                       | Low (stationary tower workstation)                         |
-| Estimated Cost (CAD)                | ~$650.00 CAD                                                 | ~$563.90 CAD                                             | ~$4,951.71 – $14,026.42 CAD                                |
+| Estimated Cost (CAD)                | ~$650.00 CAD                                                 | ~$863.90 CAD                                             | ~$4,951.71 – $14,026.42 CAD                                |
 
 <br>
 
