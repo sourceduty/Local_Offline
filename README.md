@@ -26,8 +26,6 @@ Sourceduty purchased a Dell Precision T5810 Workstation for $563.90 CAD, which o
 
 ``` Dell G15 Gaming Laptop ↔ Dell Precision T5810 Workstation (CPU) ```
 
-<br>
-
 Alex: _I want more power but I'm limited to CPUs._
 
 <br>
