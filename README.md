@@ -24,7 +24,7 @@ Sourceduty’s hardware lineup, as showcased through its detailed laptop reviews
 
 Sourceduty purchased a Dell Precision T5810 Workstation for $563.90 CAD, which offers exceptional value for a high-core-count productivity machine. Powered by an Intel Xeon E5-2699C v4 processor with 22 cores and 44 threads, this workstation excels at intensive multitasking, rendering, simulation, and parallel computation tasks, making it ideal for demanding workflows. Its 32GB of DDR4 ECC Registered RAM ensures reliable memory performance, especially for data-sensitive applications such as 3D modeling, CAD, and scientific analysis. The 250GB SSD provides adequate storage for system files and essential software. If Sourceduty could afford it, they would invest in the Dell Precision 7875 Tower, a machine that offers even more power, featuring up to 96 cores and higher RAM capacities, making it a top contender for high-performance computing tasks like AI, machine learning, and complex simulations. Note: .gguf models rely exclusively on CPU inference, so GPU upgrades do not affect .gguf performance.
 
-``` Dell G15 Gaming Laptop ↔ Dell Precision T5810 Workstation (GPU + CPU) ```
+``` Dell G15 Gaming Laptop ↔ Dell Precision T5810 Workstation (CPU) ```
 
 <br>
 
