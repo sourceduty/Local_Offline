@@ -32,7 +32,7 @@ Sourceduty purchased a Dell Precision T5810 Workstation for $563.90 CAD, which o
 
 ``` Dell G15 Gaming Laptop ↔ Dell Precision T5810 Workstation (CPU) ```
 
-Upgrading the Dell Precision T5810 from 32 GB to 128 GB of ECC DDR4 RAM significantly enhances its capability to run local AI models like google/gemma-2-2b-GGUF. This CAD ~$160–$220 investment boosts tokens-per-second performance by up to 50%, reduces model load times, eliminates swap usage, and enables larger context windows and parallel model execution. For users focused on CPU-only inference, this upgrade brings the T5810's performance closer to that of modern high-end EPYC servers—at a fraction of the cost.
+Upgrading the Dell Precision T5810 from 32 GB to 128 GB of ECC DDR4 RAM significantly enhances its capability to run local AI models like google/gemma-2-2b-GGUF. This CAD ~$160–$420 investment boosts tokens-per-second performance by up to 50%, reduces model load times, eliminates swap usage, and enables larger context windows and parallel model execution. For users focused on CPU-only inference, this upgrade brings the T5810's performance closer to that of modern high-end EPYC servers—at a fraction of the cost.
 
 <br>
 
@@ -49,7 +49,7 @@ Upgrading the Dell Precision T5810 from 32 GB to 128 GB of ECC DDR4 RAM sign
 | Max Token Context Window            | ~2K–3K tokens (limited by RAM)                                | 4K–8K tokens (ample RAM)                                 | 8K–12K tokens (ample RAM)                                  |
 | Power Efficiency                    | High (mobile chip, efficient per watt)                        | Low (high power draw, higher sustained output)           | Medium (high core count with significant power usage)      |
 | Portability                         | High (lightweight laptop)                                     | Low (stationary tower workstation)                       | Low (stationary tower workstation)                         |
-| Estimated Cost (CAD)                | ~$650.00 CAD                                                 | ~$863.90 CAD                                             | ~$4,951.71 – $14,026.42 CAD                                |
+| Estimated Cost (CAD)                | ~$650.00 CAD                                                 | ~$963.90 CAD                                             | ~$4,951.71 – $14,026.42 CAD                                |
 
 ![T5810](https://github.com/user-attachments/assets/54f55fc2-3ef9-41ef-b73d-19e32f5bf90a)
 
